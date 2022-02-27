@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A gallant victory obtained by the Lord Inchiqueen against the rebels; at Capogh-Queen in Ireland. Which garison is taken from the rebels, that was kept by 120 officers and souldiers; 4 peece of ordnance taken, 150 armes, 3 barrels of powder, 50 horse, and good store of ammunition and provisions. Also, sad newes from Dublin: where the rebels with Preston, have taken the strong castle of Caterlagh, 3 peece of ordnance, 100 arms, and 160 officers and souldiers; men, women, and children, forced to Dublin for relief. With the votes of the rebels at their councell of warre, concerning their further designes against Dublin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89255</idno>
+            <idno type="STC">Wing M2541</idno>
+            <idno type="STC">Thomason E388_1</idno>
+            <idno type="STC">ESTC R201498</idno>
+            <idno type="EEBO-CITATION">99861999</idno>
+            <idno type="PROQUEST">99861999</idno>
+            <idno type="VID">160233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160233)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A gallant victory obtained by the Lord Inchiqueen against the rebels; at Capogh-Queen in Ireland. Which garison is taken from the rebels, that was kept by 120 officers and souldiers; 4 peece of ordnance taken, 150 armes, 3 barrels of powder, 50 horse, and good store of ammunition and provisions. Also, sad newes from Dublin: where the rebels with Preston, have taken the strong castle of Caterlagh, 3 peece of ordnance, 100 arms, and 160 officers and souldiers; men, women, and children, forced to Dublin for relief. With the votes of the rebels at their councell of warre, concerning their further designes against Dublin.</title>
+                  <author>Moore, Francis, d. 1662.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.S.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of a letter dated and signed: Dublin the 7. of May, 1647. Francis Moore; and "The votes of the councell of warre".</note>
+                  <note>Annotation on Thomason copy: "May 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160233:1" rendition="simple:additions"/>
+            <pb facs="tcp:160233:1" rendition="simple:additions"/>
+            <p>A Gallant VICTORY Obtained by the LORD INCHIQVEEN Againſt the <hi>REBELS;</hi> at CAPOGH-QUEEN in <hi>IRELAND.</hi>
+            </p>
+            <p>Which Gariſon is taken from the Rebels, that was kept by 120 Officers and Souldiers; 4 Peece of Ordnance taken, 150 Armes, 3 Barrels of Powder, 50 Horſe, and good ſtore of Ammunition and Proviſions.</p>
+            <p>ALSO, SAD NEWES from DUBLIN<hi>:</hi> Where the Rebels with <hi>Preſton,</hi> have taken the ſtrong Caſtle of <hi>Caterlagh,</hi> 3 Peece of Ordnance, 100 Arms, and 160 Officers and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouldiers; men, women, and children, forced to Dublin for relief.</p>
+            <p>
+               <hi>With the Votes of the</hi> REBELS <hi>at their Councell of</hi> WARRE, <hi>concerning their further deſignes againſt DVBLIN.</hi>
+            </p>
+            <p>
+               <add>may .17.</add> LONDON, Printed for <hi>W. S.</hi> 1647.</p>
+            <pb facs="tcp:160233:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:160233:2"/>
+            <head>
+               <hi>A Gallant Victory obtained by the Lord</hi> Inchi<g ref="char:EOLhyphen"/>queen <hi>againſt the Rebels, at Capogh-queen in Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>SInce my laſt, We have had much action; that in theſe parts very ſad. Generall <hi>Pre<g ref="char:EOLhyphen"/>ſton</hi> being ſate down before Caterlagh (a very conſiderable paſſe upon the River of Barrow, to the County of Dublin, and within about 40 miles of the City of Dublin) with a party of ſome 2 or 3000 which quartered about Clogre, Killegore, Quilirian, and ſo towards Laghlyn, and Idogh; in which parts are many of the ve<g ref="char:EOLhyphen"/>ry rigid party of the Iriſh Rebels. <hi>Preſton</hi> re<g ref="char:EOLhyphen"/>ceived Orders from the aſſembly of the Confe<g ref="char:EOLhyphen"/>derate Catholikes at Kilkenny (which is with<g ref="char:EOLhyphen"/>in ſome 10 miles of Caterlagh) to take in that Gariſon to their obedience; firſt, offering quar<g ref="char:EOLhyphen"/>ter, but that if they ſhould refuſe to ſurrender, to put all, (both men, women and children) to to the ſword, after he had taken it.</p>
+            <p>
+               <pb n="2" facs="tcp:160233:3"/>
+Accordingly Gen<hi>:</hi> Preſton ſent in a Summons to the Governour, commanding the ſaid Garriſon for the uſe of the King, and the Aſſembly of the Lords and Commons of the Supreame Councell at Kilkenny, and that if they would ſurrender the ſame, they ſhould have ſouldiers civi<g ref="char:EOLhyphen"/>lities, if not, then to expect no mercy.<lb/>
+               <hi>Subſcribed</hi> PRESTON.</p>
+            <p>This ſummons being brought in, and delivered to Ma<g ref="char:EOLhyphen"/>jor Harman, who kept it under the Marqueſſe of Ormond, hee returned anſwer, that he kept it for the King, and had his Commiſſion from his Majeſties Deputy Lievtenant; and deſired to ſend to Dublin to know his Lordſhips plea<g ref="char:EOLhyphen"/>ſure, and then he would returne anſwer.<lb/>
+               <hi>Subſcribed</hi> HARMON.</p>
+            <p>Preſton not being ſatisfied with this anſwer, ſends a<g ref="char:EOLhyphen"/>gain to him, requiring a ſudden anſwer, whether he would ſurrender or not, and threatning him, that if he did force him to ſtorme it, that he would ſpare neither ſex nor age, upbraiding him with the fury of the enraged ſouldiers, in caſe they ſhould be ſo provoked.</p>
+            <p>Major Harman conſidering, that beſides the Officers and ſouldiers that were there appointed to keepe it (who were too few to manage it) that there were many women and children beſides Inhabirants (Proteſtants of thoſe parts, that came in for protection) whoſe condition was very unfit to beare a ſtorme, beſides the great importuni<g ref="char:EOLhyphen"/>ty of the women, and the little expectation he could have of reliefe there, and thoſe parts being wholly poſſeſſed by the Rebels, he condiſcended to capitulate.</p>
+            <p>The next dayes treaty between them concluded the buſi<g ref="char:EOLhyphen"/>neſſe, Major Harmon being to ſurrender the garriſon, up<g ref="char:EOLhyphen"/>on condition that himſelfe, with his Officers, and ſouldi<g ref="char:EOLhyphen"/>ers, and the reſt of thoſe perſons that were in the garriſon,
+<pb n="3" facs="tcp:160233:3"/>
+to have all quarter for their lives, and to have paſſes, and a ſafe Convoy to the City of Dublin.</p>
+            <p>To this thus agreed, both parties ſigned, and according<g ref="char:EOLhyphen"/>ly they marched out on St. Peter ſide, The Officers, ſoul<g ref="char:EOLhyphen"/>diers, men, women and children, and wita ſad hearts were forced to ſurrender all to the Rebels, who marched in, and then Preſton placed 100 foot to keep it for the Aſſembly at Kilkenny, againſt the Parliament and Ormond both, and Major Harmon with thoſe who were marched out went to Dublin.</p>
+            <p>I have ſent you here incloſed, a liſt of the particulars of what we loſt, in this garriſon of Caterlaugh, that Major Harmon was forced to leave to the Rebels, and he is now with the Marqueſſe of Ormond here in this City, but ſome of the Inhabitants are with their friends in the adjacent villages, yet moſt of them are come in hither in a moſt ſad and lamentable condition. O that God would ſo put our bleeding eſtate to your hearts, that we might find ſome ſpeedy reliefe from England, without which wee are like to looſe all.</p>
+            <p>This paſſe was ſo conſiderable a one, that we have not ſuch an other betwixt us and Kilkenny.</p>
+            <p>In Munſter (God be thanked) is betrer newes, The Lord Inchiqueen marched from Cork with a party of horſe and foot, reſolving (by Gods bleſsing upon his en<g ref="char:EOLhyphen"/>deavours) to take in ſome Garriſons, and do what he can to divert the Rebels from paſsing out of thoſe parts, to joyn with Oneale, or Preſton, againſt this diſtreſſed City of Dublin, where we cannot repreſent our condition more ſadly then indeed it is.</p>
+            <p>His Lordſhip firſt ſent out a party of horſe, and fet<g ref="char:EOLhyphen"/>ched in ſome proviſions for his Army, and then marched towards the Rebels Garriſons. And this good newes wee
+<pb n="4" facs="tcp:160233:4"/>
+heare from thence that he hath taken from the Rebels, a ſtrong hold which they kept in thoſe parts, called Capogh-queen, in which his Lordſhip hath found good ſtore of Ammunition and Proviſions.</p>
+            <p>I have ſent you here incloſed a liſt of the particulars of what was in that Garriſon, as I am informed by thoſe who have beene lately in the quarters of Generall Preſton, who hath received Letters that the Lord Inchiqueene hath ta<g ref="char:EOLhyphen"/>ken it, and that his Lordſhip is ſetting downe before an<g ref="char:EOLhyphen"/>other very conſiderable Garriſon.</p>
+            <p>Hereupon Generall Preſton, and Owen Roo Neale cal<g ref="char:EOLhyphen"/>led a Counſell of Warre, and had a meeting neere Kilken<g ref="char:EOLhyphen"/>ny, of the Officers of their Army, as alſo acquainting the generall Aſſembly therewith, and receiving their repre<g ref="char:EOLhyphen"/>ſentations:</p>
+            <p>It was concluded and agreed according to the incloſed paper, which is the heads of the reſolutions of the Coun<g ref="char:EOLhyphen"/>cell of VVarre upon an order from the ſaid Aſſembly for them to conſider of a way to divert the Lord Inchiqueen, and goe on with their deſignes in theſe parts, where under a ſad and bleeding condition we cry for helpe from you. The Lord direct you to lay your owne diviſions a<g ref="char:EOLhyphen"/>ſide and joyne to helpe us, leaſt you give advantage to a third, (a bloudy party) to deſtroy both us and you. God direct you to helpe us. So prayes</p>
+            <closer>
+               <dateline>Dublin <date>the 7, of May, 1647.</date>
+               </dateline>
+               <signed>Your humble ſervant <hi>Francis Moore.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_resolutions">
+            <pb n="5" facs="tcp:160233:4"/>
+            <list>
+               <head>The Votes of the Councell of Warre, held neere <hi>Kilkenny,</hi> by <hi>Owen Oneale,</hi> Generall <hi>Pre<g ref="char:EOLhyphen"/>ſton,</hi> and the reſt of the Officers of the Army of the generall Aſſembly of the Confederate Catho<g ref="char:EOLhyphen"/>likes.</head>
+               <item>1. THat Generall <hi>Preſton</hi> with an Army of foot, and ſome troopes of horſe march towards the Province of <hi>Munſter,</hi> to devert the proceedings of the Lord <hi>Inchiqueen;</hi> and relieve the Garriſons kept for <hi>the generall Aſſembly of the Confederate Catholiques.</hi>
+               </item>
+               <item>2. That <hi>Owen Oneale</hi> remaine with his for<g ref="char:EOLhyphen"/>ces about <hi>Kilkenny,</hi> for the ſecurity of the For<g ref="char:EOLhyphen"/>ces in the <hi>Province</hi> of <hi>Leinſter,</hi> and that he have a party of horſe, to fetch in Proviſions out of the County of Dublin.</item>
+            </list>
+         </div>
+         <div type="list_of_spoils">
+            <pb n="6" facs="tcp:160233:5"/>
+            <head>A Liſt of what was taken in <hi>Caterlagh</hi> Caſtle, which place was taken by Generall <hi>Preſton,</hi> and the Rebels.</head>
+            <list>
+               <item>3 Peece of Ordnance, ſmall ones.</item>
+               <item>100 Armes, broken and whole.</item>
+               <item>Some Barrels of powder.</item>
+               <item>Match proportionable.</item>
+               <item>80 Barrel of Beere.</item>
+               <item>Proviſions good ſtore.</item>
+               <item>60 Officers and ſouldiers, who marched to <hi>Dublin.</hi>
+               </item>
+               <item>100 and <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d, men, women and children, be<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>des.</item>
+               <item>Bullet and amunition plenty.</item>
+               <item>Much of Proteſtants goods.</item>
+            </list>
+         </div>
+         <div type="list_of_spoils">
+            <head>A Liſt of what was taken from the Rebels in <hi>Ca<g ref="char:EOLhyphen"/>pogh-queen,</hi> by the Lord <hi>Inchi<g ref="char:EOLhyphen"/>queen.</hi>
+            </head>
+            <list>
+               <item>150 Arms of ſeverall ſorts.</item>
+               <item>120 men were in it, Officers and ſouldiers.</item>
+               <item>4 Small Guns.</item>
+               <item>3 Barrels of powder.</item>
+               <item>50 horſes.</item>
+               <item>Divers barrels of proviſions.</item>
+               <item>Match, Bullet, and Ammu<g ref="char:EOLhyphen"/>nition proportionable, on<g ref="char:EOLhyphen"/>ly much broken.</item>
+               <item>The Lord <hi>Inchiqueens</hi> ſouldi<g ref="char:EOLhyphen"/>ers are very reſolute.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
